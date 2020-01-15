@@ -1,0 +1,6 @@
+result = input("Enter a number and I'll multiply: ")
+result = int(result)
+print(result * 2)
+result = input("Enter another number and I'll multiply: ")
+result = int(result)
+print(result * 3)
